@@ -1,2 +1,1 @@
-# Django-env-base
-这是我自己配置的用于Django框架开发的一个基础环境
+<h1>Django-env-base</h1><p>这是我自己配置的用于Django框架开发的一个基础环境</p><p><span>​</span></p><table cellpadding="2" cellspacing="0" border="1" bordercolor="#000000" class="layui-table"><tbody><tr><td>集成第三方包</td><td>描述</td></tr><tr><td>xadmin</td><td><h1><span>使用 Xadmin 您只需定义您数据的字段等信息，即可即刻获得一个功能全面的管理系统。不仅如此，您还可以方便的扩展更多的定制功能和系统界面。</span></h1></td></tr><tr><td>DjangoUeditor</td><td><span><strong>本模块帮助在Django应用中集成百度Ueditor HTML编辑器&nbsp;</strong></span><strong><span>​<br></span></strong><br></td></tr></tbody></table><p><span>​</span></p>
